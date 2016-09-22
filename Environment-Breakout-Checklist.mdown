@@ -8,7 +8,8 @@
 * EB-006 - Malicious Browser Addons Installations
 * EB-007 - Front-End Interface Crash
 * EB-008 - Windows Shell Environment Manipulation
-* EB-009 - Bypass Software Restriction Policies
-* EB-010 - Bypass Local Group Policies
-* EB-011 - Privilege Escalation
-* EB-012 - Memory dump Analysis   
+* EB-009 - Binary Planting
+* EB-010 - Bypass Software Restriction Policies
+* EB-011 - Bypass Local Group Policies
+* EB-012 - Privilege Escalation
+* EB-013 - Memory dump Analysis   
