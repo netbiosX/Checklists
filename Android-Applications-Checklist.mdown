@@ -1,1 +1,2 @@
+# Android Mobile Application Checklist
 * AMA-001 - Manifest File Review
