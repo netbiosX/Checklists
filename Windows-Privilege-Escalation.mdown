@@ -1,4 +1,4 @@
-*# Windows Privilege Escalation
+# Windows Privilege Escalation
 
 * [WPE-001 - Always Install Elevated](https://pentestlab.blog/2017/02/28/always-install-elevated/)
 * WPE-002 - Stored Credentials
