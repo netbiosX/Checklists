@@ -6,3 +6,4 @@
 * WPE-004 - Weak Service Permissions
 * [WPE-005 - Unquoted Service Path](https://pentestlab.blog/2017/03/09/unquoted-service-path/)
 * WPE-006 - Admin Rights on Another Box
+* [WPE-007 - Group Policy Preferences] (https://pentestlab.blog/2017/03/20/group-policy-preferences/)
