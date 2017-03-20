@@ -7,3 +7,5 @@
 * [WPE-005 - Unquoted Service Path](https://pentestlab.blog/2017/03/09/unquoted-service-path/)
 * WPE-006 - Admin Rights on Another Box
 * [WPE-007 - Group Policy Preferences](https://pentestlab.blog/2017/03/20/group-policy-preferences/)
+* WPE-008 - Hot Potato
+* WPE-009 - Local Exploits
