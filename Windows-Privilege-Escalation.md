@@ -10,3 +10,4 @@
 * WPE-008 - Hot Potato
 * WPE-009 - Local Exploits
 * WPE-010 - Token Impersonation
+* WPE-011 - Insecure Registry Permissions
