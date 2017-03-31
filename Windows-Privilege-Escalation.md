@@ -10,4 +10,4 @@
 * WPE-008 - Hot Potato
 * WPE-009 - Local Exploits
 * WPE-010 - Token Impersonation
-* WPE-011 - Insecure Registry Permissions
+* [WPE-011 - Insecure Registry Permissions](https://pentestlab.blog/2017/03/31/insecure-registry-permissions/)
