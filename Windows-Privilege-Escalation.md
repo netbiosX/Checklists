@@ -12,4 +12,3 @@
 * WPE-010 - Token Manipulation
 * [WPE-011 - Insecure Registry Permissions](https://pentestlab.blog/2017/03/31/insecure-registry-permissions/)
 * WPE-012 - DLL Injection
-* WPE-013 - Secondary Logon Handle
