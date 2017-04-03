@@ -1,4 +1,4 @@
-# Windows Privilege Escalation
+ # Windows Privilege Escalation
 
 * [WPE-001 - Always Install Elevated](https://pentestlab.blog/2017/02/28/always-install-elevated/)
 * WPE-002 - Stored Credentials
@@ -9,6 +9,6 @@
 * [WPE-007 - Group Policy Preferences](https://pentestlab.blog/2017/03/20/group-policy-preferences/)
 * WPE-008 - Hot Potato
 * WPE-009 - Local Exploits
-* WPE-010 - Token Manipulation
+* [WPE-010 - Token Manipulation](https://pentestlab.blog/2017/04/03/token-manipulation/)
 * [WPE-011 - Insecure Registry Permissions](https://pentestlab.blog/2017/03/31/insecure-registry-permissions/)
 * WPE-012 - DLL Injection
