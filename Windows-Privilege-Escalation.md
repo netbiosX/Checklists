@@ -1,7 +1,7 @@
 # Windows Privilege Escalation
 
 * [WPE-001 - Always Install Elevated](https://pentestlab.blog/2017/02/28/always-install-elevated/)
-* WPE-002 - Stored Credentials
+* [WPE-002 - Stored Credentials](https://pentestlab.blog/2017/04/19/stored-credentials/)
 * [WPE-003 - DLL Hijacking](https://pentestlab.blog/2017/03/27/dll-hijacking/)
 * [WPE-004 - Weak Service Permissions](https://pentestlab.blog/2017/03/30/weak-service-permissions/)
 * [WPE-005 - Unquoted Service Path](https://pentestlab.blog/2017/03/09/unquoted-service-path/)
