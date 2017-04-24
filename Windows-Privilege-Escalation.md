@@ -1,7 +1,7 @@
 # Windows Privilege Escalation
 
 * [WPE-001 - Stored Credentials](https://pentestlab.blog/2017/04/19/stored-credentials/)
-* WPE-002 - Local Exploits
+* [WPE-002 - Windows Kernel](https://pentestlab.blog/2017/04/24/windows-kernel-exploits/)
 * [WPE-003 - DLL Injection](https://pentestlab.blog/2017/04/04/dll-injection/)
 * [WPE-002 - Always Install Elevated](https://pentestlab.blog/2017/02/28/always-install-elevated/)
 * [WPE-003 - DLL Hijacking](https://pentestlab.blog/2017/03/27/dll-hijacking/)
