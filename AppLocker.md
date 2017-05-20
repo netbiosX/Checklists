@@ -1,6 +1,6 @@
 # AppLocker Bypass
 
-* AL-01 - InstallUtil
+* [AL-01 - InstallUtil](https://pentestlab.blog/2017/05/08/applocker-bypass-installutil/)
 * AL-02 - Regsrv32
 * AL-03 - Regasm and Regsvcs
 * AL-04 - MSBuild
