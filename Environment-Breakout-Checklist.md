@@ -1,4 +1,4 @@
-# Environment Breakout Checklist
+*# Environment Breakout Checklist
 
 * EB-001 - Physical Security of the Device
 * EB-002 - Platform Identification and Version Software in Use
@@ -13,3 +13,4 @@
 * EB-011 - Bypass Local Group Policies
 * EB-012 - Privilege Escalation
 * EB-013 - Memory dump Analysis   
+* EB-014 - Bypass AppLocker Rules
