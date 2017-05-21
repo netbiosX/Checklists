@@ -6,5 +6,5 @@
 * AL-04 - MSBuild
 * AL-05 - Rundll32
 * AL-06 - IEExec
-* AL-07 - Registry Manipulation
+* AL-07 - Control Panel
 * AL-08 - Weak Path Rules
