@@ -7,4 +7,4 @@
 * AL-05 - Rundll32
 * AL-06 - IEExec
 * AL-07 - Control Panel
-* AL-08 - Weak Path Rules
+* [AL-08 - Weak Path Rules](https://pentestlab.blog/2017/05/22/applocker-bypass-weak-path-rules/)
