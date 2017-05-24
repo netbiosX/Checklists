@@ -6,5 +6,5 @@
 * AL-04 - MSBuild
 * [AL-05 - Rundll32](https://pentestlab.blog/2017/05/23/applocker-bypass-rundll32/)
 * AL-06 - IEExec
-* AL-07 - Control Panel
+* [AL-07 - Control Panel](https://pentestlab.blog/2017/05/24/applocker-bypass-control-panel/)
 * [AL-08 - Weak Path Rules](https://pentestlab.blog/2017/05/22/applocker-bypass-weak-path-rules/)
