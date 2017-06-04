@@ -8,3 +8,4 @@
 * AL-06 - IEExec
 * [AL-07 - Control Panel](https://pentestlab.blog/2017/05/24/applocker-bypass-control-panel/)
 * [AL-08 - Weak Path Rules](https://pentestlab.blog/2017/05/22/applocker-bypass-weak-path-rules/)
+* [AL-09 - BgInfo](https://pentestlab.blog/2017/06/05/applocker-bypass-bginfo)
