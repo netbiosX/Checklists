@@ -12,3 +12,4 @@
 * [WPE-10 - Token Manipulation](https://pentestlab.blog/2017/04/03/token-manipulation/)
 * [WPE-11 - Secondary Logon Handle](https://pentestlab.blog/2017/04/07/secondary-logon-handle/)
 * [WPE-12 - Insecure Registry Permissions](https://pentestlab.blog/2017/03/31/insecure-registry-permissions/)
+* [WPE-13 - Intel SYSRET](https://pentestlab.blog/2017/06/14/intel-sysret/)
