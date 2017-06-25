@@ -6,3 +6,4 @@
 * AMA-005 - Application Certificate
 * AMA-006 - Lack of Code Obfuscation
 * AMA-007 - Plaintext Data
+* AMA-008 - APK Payload Injection
