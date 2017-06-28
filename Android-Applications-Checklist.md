@@ -6,4 +6,4 @@
 * AMA-005 - Application Certificate
 * AMA-006 - Lack of Code Obfuscation
 * AMA-007 - Plaintext Data
-* AMA-008 - APK Payload Injection
+* [AMA-008 - APK Payload Injection](https://pentestlab.blog/2017/06/26/injecting-metasploit-payloads-into-android-applications-manually/)
