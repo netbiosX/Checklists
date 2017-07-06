@@ -1,4 +1,4 @@
-# AppLocker Bypass
+*# AppLocker Bypass
 
 * [AL-01 - InstallUtil](https://pentestlab.blog/2017/05/08/applocker-bypass-installutil/)
 * [AL-02 - Regsvr32](https://pentestlab.blog/2017/05/11/applocker-bypass-regsvr32/)
@@ -12,3 +12,4 @@
 * [AL-10 - Assembly Load](https://pentestlab.blog/2017/06/06/applocker-bypass-assembly-load/)
 * [AL-11 - File Extensions](https://pentestlab.blog/2017/06/12/applocker-bypass-file-extensions/)
 * [AL-12 - MSIEXEC](https://pentestlab.blog/2017/06/16/applocker-bypass-msiexec/)
+* [AL-13 - MSXSL](https://pentestlab.blog/2017/07/06/applocker-bypass-msxsl/)
