@@ -1,4 +1,4 @@
-*# AppLocker Bypass
+# AppLocker Bypass
 
 * [AL-01 - InstallUtil](https://pentestlab.blog/2017/05/08/applocker-bypass-installutil/)
 * [AL-02 - Regsvr32](https://pentestlab.blog/2017/05/11/applocker-bypass-regsvr32/)
