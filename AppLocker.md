@@ -13,3 +13,4 @@
 * [AL-11 - File Extensions](https://pentestlab.blog/2017/06/12/applocker-bypass-file-extensions/)
 * [AL-12 - MSIEXEC](https://pentestlab.blog/2017/06/16/applocker-bypass-msiexec/)
 * [AL-13 - MSXSL](https://pentestlab.blog/2017/07/06/applocker-bypass-msxsl/)
+* [AL-14 - CreateRestrictedToken](https://pentestlab.blog/2017/07/07/applocker-bypass-createrestrictedtoken/)
