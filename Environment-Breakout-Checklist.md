@@ -1,4 +1,4 @@
-*# Environment Breakout Checklist
+# Environment Breakout Checklist
 
 * EB-001 - Physical Security of the Device
 * EB-002 - Platform Identification and Version Software in Use
