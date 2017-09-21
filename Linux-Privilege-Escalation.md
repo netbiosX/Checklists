@@ -1,3 +1,3 @@
 # Linux Privilege Escalation
 
-* LPE - 001 - Dirty Cow
+* LPE - 01 - Dirty Cow
