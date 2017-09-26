@@ -5,7 +5,7 @@
 * [C2-003 - DropBox](https://pentestlab.blog/2017/08/29/command-and-control-dropbox/)
 * [C2-004 - Gmail](https://pentestlab.blog/2017/08/03/command-and-control-gmail/)
 * C2 - Github
-* C2 - Twitter
+* [C2 - Twitter](https://pentestlab.blog/2017/09/26/command-and-control-twitter/)
 * [C2 - Website Keyword](https://pentestlab.blog/2017/09/14/command-and-control-website-keyword/)
 * [C2 - PowerShell](https://pentestlab.blog/2017/08/19/command-and-control-powershell/)
 * [C2 - Windows COM](https://pentestlab.blog/2017/09/01/command-and-control-windows-com/)
