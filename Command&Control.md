@@ -12,4 +12,5 @@
 * [C2 - WebDAV](https://pentestlab.blog/2017/09/12/command-and-control-webdav/)
 * C2 - Error Pages
 * C2 - Active Directory
+* C2 - HTTP
 * C2 - Kernel
