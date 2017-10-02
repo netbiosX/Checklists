@@ -13,4 +13,4 @@
 * C2 - Error Pages
 * C2 - Active Directory
 * C2 - HTTP
-* C2 - Kernel
+* [C2 - Kernel](https://pentestlab.blog/2017/10/02/command-and-control-kernel/)
