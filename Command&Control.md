@@ -12,5 +12,5 @@
 * [C2 - WebDAV](https://pentestlab.blog/2017/09/12/command-and-control-webdav/)
 * C2 - Error Pages
 * C2 - Active Directory
-* C2 - HTTPS
+* [C2 - HTTPS](https://pentestlab.blog/2017/10/04/command-and-control-https/)
 * [C2 - Kernel](https://pentestlab.blog/2017/10/02/command-and-control-kernel/)
