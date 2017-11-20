@@ -15,4 +15,4 @@
 * [C2-012 - HTTPS](https://pentestlab.blog/2017/10/04/command-and-control-https/)
 * [C2-013 - Kernel](https://pentestlab.blog/2017/10/02/command-and-control-kernel/)
 * [C2-014 - Website](https://pentestlab.blog/2017/11/14/command-and-control-website/)
-* C2-015 - WMI
+* [C2-015 - WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
