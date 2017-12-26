@@ -18,3 +18,4 @@
 * [C2-015 - WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
 * [C2-016 - WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
 * C2-017 - Images
+* C2-018 - Web Interface
