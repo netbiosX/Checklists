@@ -19,3 +19,4 @@
 * [C2-016 - WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
 * C2-017 - Images
 * C2-018 - Web Interface
+* C2-019 - JavaScript
