@@ -17,6 +17,7 @@
 * [C2-014 - Website](https://pentestlab.blog/2017/11/14/command-and-control-website/)
 * [C2-015 - WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
 * [C2-016 - WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
-* C2-017 - Images
-* C2-018 - Web Interface
-* C2-019 - JavaScript
+* [C2-017 - Images](https://pentestlab.blog/2018/01/02/command-and-control-images/)
+* [C2-018 - Web Interface](https://pentestlab.blog/2018/01/03/command-and-control-web-interface/)
+* [C2-019 - JavaScript](https://pentestlab.blog/2018/01/08/command-and-control-javascript/)
+* C2-020 - Instagram
