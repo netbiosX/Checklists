@@ -21,3 +21,4 @@
 * [C2-018 - Web Interface](https://pentestlab.blog/2018/01/03/command-and-control-web-interface/)
 * [C2-019 - JavaScript](https://pentestlab.blog/2018/01/08/command-and-control-javascript/)
 * C2-020 - Instagram
+* [C2-021 - Browser](https://pentestlab.blog/2018/06/06/command-and-control-browser/)
