@@ -6,3 +6,5 @@
 * [PE-004 - Screensaver](https://pentestlab.blog/2019/10/09/persistence-screensaver/)
 * [PE-005 - Create Account]
 * [PE-006 - WMI Event Subscription]
+* [PE-007 - Netsh Helper DLL]
+
