@@ -7,4 +7,4 @@
 * [PE-005 - Create Account]
 * [PE-006 - WMI Event Subscription]
 * [PE-007 - Netsh Helper DLL]
-
+* [PE-008 - Security Support Provider]
