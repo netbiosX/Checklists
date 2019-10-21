@@ -7,4 +7,4 @@
 * [PE-005 - Create Account]
 * [PE-006 - WMI Event Subscription]
 * [PE-007 - Netsh Helper DLL]
-* [PE-008 - Security Support Provider]
+* [PE-008 - Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)
