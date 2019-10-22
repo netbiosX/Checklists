@@ -8,3 +8,4 @@
 * [PE-006 - WMI Event Subscription]
 * [PE-007 - Netsh Helper DLL]
 * [PE-008 - Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)
+* [PE-009 - Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)
