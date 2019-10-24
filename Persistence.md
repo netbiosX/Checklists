@@ -10,3 +10,4 @@
 * [PE-008 - Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)
 * [PE-009 - Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)
 * [PE-010 - Scheduled Tasks]
+* [PE-011 - PowerShell Profiles]
