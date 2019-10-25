@@ -11,3 +11,4 @@
 * [PE-009 - Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)
 * [PE-010 - Scheduled Tasks]
 * [PE-011 - PowerShell Profiles]
+* [PE-012 - Port Monitors]
