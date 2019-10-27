@@ -12,3 +12,4 @@
 * [PE-010 - Scheduled Tasks]
 * [PE-011 - PowerShell Profiles]
 * [PE-012 - Port Monitors]
+* [PE-013 - Component Object Model Hijacking]
