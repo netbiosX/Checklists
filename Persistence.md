@@ -11,5 +11,5 @@
 * [PE-009 - Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)
 * [PE-010 - Scheduled Tasks]
 * [PE-011 - PowerShell Profiles]
-* [PE-012 - Port Monitors]
+* [PE-012 - Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)
 * [PE-013 - Component Object Model Hijacking]
