@@ -13,3 +13,4 @@
 * [PE-011 - PowerShell Profiles]
 * [PE-012 - Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)
 * [PE-013 - Component Object Model Hijacking]
+* [PE-014 - BITS Jobs](https://pentestlab.blog/2019/10/30/persistence-bits-jobs/)
