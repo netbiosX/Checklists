@@ -9,7 +9,7 @@
 * [PE-007 - Netsh Helper DLL](https://pentestlab.blog/2019/10/29/persistence-netsh-helper-dll/)
 * [PE-008 - Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)
 * [PE-009 - Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)
-* [PE-010 - Scheduled Tasks]
+* [PE-010 - Scheduled Tasks](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
 * [PE-011 - PowerShell Profiles]
 * [PE-012 - Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)
 * [PE-013 - Component Object Model Hijacking]
