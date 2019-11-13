@@ -15,4 +15,4 @@
 * [PE-013 - Component Object Model Hijacking]
 * [PE-014 - BITS Jobs](https://pentestlab.blog/2019/10/30/persistence-bits-jobs/)
 * [PE-015 - Office Application Startup]
-* [PE-016 - Accessibility Features]
+* [PE-016 - Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)
