@@ -17,3 +17,4 @@
 * [PE-015 - Office Application Startup](https://pentestlab.blog/2019/12/11/persistence-office-application-startup/)
 * [PE-016 - Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)
 * [PE-017 - Application Shimming]
+* [PE-018 - Change Default File Association]
