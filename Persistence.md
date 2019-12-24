@@ -19,3 +19,4 @@
 * [PE-017 - Application Shimming](https://pentestlab.blog/2019/12/16/persistence-application-shimming/)
 * [PE-018 - Change Default File Association]
 * [PE-019 - AppInit DLLs]
+* [PE-020 - Image File Execution Options Injection]
