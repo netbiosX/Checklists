@@ -18,3 +18,4 @@
 * [PE-016 - Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)
 * [PE-017 - Application Shimming](https://pentestlab.blog/2019/12/16/persistence-application-shimming/)
 * [PE-018 - Change Default File Association]
+* [PE-019 - AppInit DLLs]
