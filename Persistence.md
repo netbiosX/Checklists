@@ -3,8 +3,7 @@
 |Code     |Technique               |Mitre     |
 |---------|------------------------|----------|
 |PE-001   |[Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)|[T1013](https://attack.mitre.org/techniques/T1013/)|
-|PE-002   |[Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)|[T1015]
-(https://attack.mitre.org/techniques/T1015/)|
+|PE-002   |[Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)|[T1015](https://attack.mitre.org/techniques/T1015/)|
 |PE-002   |[Shortcut Modification](https://pentestlab.blog/2019/10/08/persistence-shortcut-modification/)|[T1023](https://attack.mitre.org/techniques/T1023/)|
 |PE-003   |Change Default File Association|[T1042](https://attack.mitre.org/techniques/T1042/)|
 |PE-004   |[New Service](https://pentestlab.blog/2019/10/07/persistence-new-service/)|[T1050](https://attack.mitre.org/techniques/T1050/)|
