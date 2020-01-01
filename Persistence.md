@@ -2,9 +2,9 @@
 
 |Code     |Technique               |Mitre     |
 |---------|------------------------|----------|
-|PE-001   |[Registry Run Keys](https://pentestlab.blog/2019/10/01/persistence-registry-run-keys/)             |[T1060](https://attack.mitre.org/techniques/T1060/)  |
-|PE-002   |[New Service](https://pentestlab.blog/2019/10/07/persistence-new-service/)|[T1050](https://attack.mitre.org/techniques/T1050/)
-* [PE-002 - New Service](https://pentestlab.blog/2019/10/07/persistence-new-service/)
+|PE-001   |[New Service](https://pentestlab.blog/2019/10/07/persistence-new-service/)|[T1050](https://attack.mitre.org/techniques/T1050/)|
+|PE-002   |[Registry Run Keys](https://pentestlab.blog/2019/10/01/persistence-registry-run-keys/)|[T1060](https://attack.mitre.org/techniques/T1060/)|
+
 * [PE-003 - Shortcut Modification](https://pentestlab.blog/2019/10/08/persistence-shortcut-modification/)
 * [PE-004 - Screensaver](https://pentestlab.blog/2019/10/09/persistence-screensaver/)
 * [PE-005 - Create Account]
