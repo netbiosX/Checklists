@@ -18,4 +18,4 @@
 |PE-014   |Image File Execution Options Injection|[T1183](https://attack.mitre.org/techniques/T1183/)|
 |PE-015   |[BITS Jobs](https://pentestlab.blog/2019/10/30/persistence-bits-jobs/)|[T1197](https://attack.mitre.org/techniques/T1197/)|
 |PE-016   |[Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)|[T1209](https://attack.mitre.org/techniques/T1209/)|
-|PE-17    |[PowerShell Profile](https://pentestlab.blog/2019/11/05/persistence-powershell-profile/)|[T1504](https://attack.mitre.org/techniques/T1504/)|
+|PE-017   |[PowerShell Profile](https://pentestlab.blog/2019/11/05/persistence-powershell-profile/)|[T1504](https://attack.mitre.org/techniques/T1504/)|
