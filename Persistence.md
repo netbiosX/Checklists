@@ -12,6 +12,7 @@
 |PE-008   |[Registry Run Keys](https://pentestlab.blog/2019/10/01/persistence-registry-run-keys/)|[T1060](https://attack.mitre.org/techniques/T1060/)|
 |PE-009   |[Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)|[T1101](https://attack.mitre.org/techniques/T1101/)|
 |PE-010   |AppInit DLLs|[T1103](https://attack.mitre.org/techniques/T1103/)|
+|PE-011   |Component Object Model Hijacking|[T1122](https://attack.mitre.org/techniques/T1122/)|
 |PE-011   |[Netsh Helper DLL](https://pentestlab.blog/2019/10/29/persistence-netsh-helper-dll/)|[T1128](https://attack.mitre.org/techniques/T1128/)|
 |PE-012   |[Office Application Startup](https://pentestlab.blog/2019/12/11/persistence-office-application-startup/)|[T1137](https://attack.mitre.org/techniques/T1137/)|
 |PE-013   |[Application Shimming](https://pentestlab.blog/2019/12/16/persistence-application-shimming/)|[T1138](https://attack.mitre.org/techniques/T1138/)|
