@@ -6,7 +6,7 @@
 |PE-002   |[Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)|[T1013](https://attack.mitre.org/techniques/T1013/)|
 |PE-003   |[Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)|[T1015](https://attack.mitre.org/techniques/T1015/)|
 |PE-004   |[Shortcut Modification](https://pentestlab.blog/2019/10/08/persistence-shortcut-modification/)|[T1023](https://attack.mitre.org/techniques/T1023/)|
-|PE-005   |Change Default File Association|[T1042](https://attack.mitre.org/techniques/T1042/)|
+|PE-005   |Change Default File Association(https://pentestlab.blog/2020/01/06/persistence-change-default-file-association/)|[T1042](https://attack.mitre.org/techniques/T1042/)|
 |PE-006   |[New Service](https://pentestlab.blog/2019/10/07/persistence-new-service/)|[T1050](https://attack.mitre.org/techniques/T1050/)|
 |PE-007   |[Scheduled Tasks](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)|[T1053](https://attack.mitre.org/techniques/T1053/)|
 |PE-008   |[Registry Run Keys](https://pentestlab.blog/2019/10/01/persistence-registry-run-keys/)|[T1060](https://attack.mitre.org/techniques/T1060/)|
