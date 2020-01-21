@@ -12,7 +12,7 @@
 |PE-008   |[Scheduled Tasks](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)|[T1053](https://attack.mitre.org/techniques/T1053/)|
 |PE-009   |Service Registry Permission Weakness|[T1058](https://attack.mitre.org/techniques/T1058/)|
 |PE-010   |[Registry Run Keys](https://pentestlab.blog/2019/10/01/persistence-registry-run-keys/)|[T1060](https://attack.mitre.org/techniques/T1060/)|
-|PE-011   |WMI Event Subscription|[T1084](https://attack.mitre.org/techniques/T1084/)|
+|PE-011   |[WMI Event Subscription](https://pentestlab.blog/2020/01/21/persistence-wmi-event-subscription/)|[T1084](https://attack.mitre.org/techniques/T1084/)|
 |PE-012   |[Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)|[T1101](https://attack.mitre.org/techniques/T1101/)|
 |PE-013   |[AppInit DLLs](https://pentestlab.blog/2020/01/07/persistence-appinit-dlls/)|[T1103](https://attack.mitre.org/techniques/T1103/)|
 |PE-014   |Component Object Model Hijacking|[T1122](https://attack.mitre.org/techniques/T1122/)|
