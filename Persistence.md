@@ -24,4 +24,4 @@
 |PE-020   |[BITS Jobs](https://pentestlab.blog/2019/10/30/persistence-bits-jobs/)|[T1197](https://attack.mitre.org/techniques/T1197/)|
 |PE-021   |[Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)|[T1209](https://attack.mitre.org/techniques/T1209/)|
 |PE-022   |[PowerShell Profile](https://pentestlab.blog/2019/11/05/persistence-powershell-profile/)|[T1504](https://attack.mitre.org/techniques/T1504/)|
-|PE-022   |Waitfor|N/A|
+|PE-023   |Waitfor|N/A|
