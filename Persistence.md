@@ -25,3 +25,4 @@
 |PE-021   |[Time Providers](https://pentestlab.blog/2019/10/22/persistence-time-providers/)|[T1209](https://attack.mitre.org/techniques/T1209/)|
 |PE-022   |[PowerShell Profile](https://pentestlab.blog/2019/11/05/persistence-powershell-profile/)|[T1504](https://attack.mitre.org/techniques/T1504/)|
 |PE-023   |[Waitfor](https://pentestlab.blog/2020/02/04/persistence-waitfor/)|N/A|
+|PE-024   |RID Hijacking|N/A|
