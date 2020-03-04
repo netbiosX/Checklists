@@ -7,7 +7,7 @@
 |PE-003   |[Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)|[T1015](https://attack.mitre.org/techniques/T1015/)|
 |PE-004   |[Shortcut Modification](https://pentestlab.blog/2019/10/08/persistence-shortcut-modification/)|[T1023](https://attack.mitre.org/techniques/T1023/)|
 |PE-005   |[Modify Existing Service](https://pentestlab.blog/2020/01/22/persistence-modify-existing-service/)|[T1031](https://attack.mitre.org/techniques/T1031/)|
-|PE-006   |DLL Search Order Hijacking|[T1038](https://attack.mitre.org/techniques/T1038/)|
+|PE-006   |[DLL Search Order Hijacking](https://pentestlab.blog/2020/03/04/persistence-dll-hijacking/)|[T1038](https://attack.mitre.org/techniques/T1038/)|
 |PE-007   |[Change Default File Association](https://pentestlab.blog/2020/01/06/persistence-change-default-file-association/)|[T1042](https://attack.mitre.org/techniques/T1042/)|
 |PE-008   |[New Service](https://pentestlab.blog/2019/10/07/persistence-new-service/)|[T1050](https://attack.mitre.org/techniques/T1050/)|
 |PE-009   |[Scheduled Tasks](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)|[T1053](https://attack.mitre.org/techniques/T1053/)|
