@@ -16,7 +16,7 @@
 |PE-012   |[WMI Event Subscription](https://pentestlab.blog/2020/01/21/persistence-wmi-event-subscription/)|[T1084](https://attack.mitre.org/techniques/T1084/)|
 |PE-013   |[Security Support Provider](https://pentestlab.blog/2019/10/21/persistence-security-support-provider/)|[T1101](https://attack.mitre.org/techniques/T1101/)|
 |PE-014   |[AppInit DLLs](https://pentestlab.blog/2020/01/07/persistence-appinit-dlls/)|[T1103](https://attack.mitre.org/techniques/T1103/)|
-|PE-015   |Component Object Model Hijacking|[T1122](https://attack.mitre.org/techniques/T1122/)|
+|PE-015   |[Component Object Model Hijacking](https://pentestlab.blog/2020/05/20/persistence-com-hijacking/)|[T1122](https://attack.mitre.org/techniques/T1122/)|
 |PE-016   |[Netsh Helper DLL](https://pentestlab.blog/2019/10/29/persistence-netsh-helper-dll/)|[T1128](https://attack.mitre.org/techniques/T1128/)|
 |PE-017   |[Office Application Startup](https://pentestlab.blog/2019/12/11/persistence-office-application-startup/)|[T1137](https://attack.mitre.org/techniques/T1137/)|
 |PE-018   |[Application Shimming](https://pentestlab.blog/2019/12/16/persistence-application-shimming/)|[T1138](https://attack.mitre.org/techniques/T1138/)|
