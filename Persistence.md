@@ -27,3 +27,4 @@
 |PE-023   |[PowerShell Profile](https://pentestlab.blog/2019/11/05/persistence-powershell-profile/)|[T1504](https://attack.mitre.org/techniques/T1504/)|
 |PE-024   |[Waitfor](https://pentestlab.blog/2020/02/04/persistence-waitfor/)|N/A|
 |PE-025   |[RID Hijacking](https://pentestlab.blog/2020/02/12/persistence-rid-hijacking/)|N/A|
+|PE-026   |[AMSI](https://pentestlab.blog/)|N/A|
