@@ -5,3 +5,6 @@
 * LPE-03 - Sudo Users
 * LPE-04 - Wildcard Injection
 * LPE-05 - Kernel Exploits
+* LPE-06 - Path Hijacking
+* LPE-07 - Misconfigured Cron jobs
+* LPE-08 - Baron Samedit 
