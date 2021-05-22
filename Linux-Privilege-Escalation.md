@@ -6,5 +6,5 @@
 * LPE-04 - Wildcard Injection
 * LPE-05 - Kernel Exploits
 * LPE-06 - Path Hijacking
-* LPE-07 - Misoncfigured Cron jobs
+* LPE-07 - Misconfigured Cron jobs
 * LPE-08 - Baron Samedit 
