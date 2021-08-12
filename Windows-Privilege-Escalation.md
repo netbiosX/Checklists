@@ -14,3 +14,4 @@
 * [WPE-12 - Insecure Registry Permissions](https://pentestlab.blog/2017/03/31/insecure-registry-permissions/)
 * [WPE-13 - Intel SYSRET](https://pentestlab.blog/2017/06/14/intel-sysret/)
 * [WPE-14 - Print Spooler](https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/)
+* [WPE-15-HiveNightmare]()
