@@ -8,6 +8,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 
 |Code     |Techniques              |
 |---------|------------------------|
+|DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|
 |DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|
 
 # Contributions
