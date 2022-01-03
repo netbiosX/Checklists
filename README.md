@@ -10,6 +10,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 |---------|------------------------|
 |DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|
 |DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|
+|LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|
 
 # Contributions
 If you noticed than a checklist is not complete please perform a pull request or contact me on Twitter [@netbiosX](www.twitter.com/netbiosX)
