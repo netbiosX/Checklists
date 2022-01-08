@@ -7,3 +7,4 @@
 |DE-03   |[RemotePotato](https://pentestlab.blog/2021/05/04/remote-potato-from-domain-user-to-enterprise-admin/)|[NA](https://attack.mitre.org/)|
 |DE-04   |[Unconstrained Delegation](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
 |DE-05   |[sAMAccountName Spoofing](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
+|DE-06   |[VSS Agent Service](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
