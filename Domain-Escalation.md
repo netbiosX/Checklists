@@ -8,3 +8,4 @@
 |DE-04   |[Unconstrained Delegation](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
 |DE-05   |[sAMAccountName Spoofing](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
 |DE-06   |[VSS Agent Service](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
+|DE-07   |[Pass the hash - Machine Accounts](https://pentestlab.blog/)|[NA](https://attack.mitre.org/)|
