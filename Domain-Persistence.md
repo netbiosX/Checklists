@@ -6,4 +6,4 @@
 |DP-02   |[AdminSDHolder](https://pentestlab.blog/2022/01/04/domain-persistence-adminsdholder/)|[NA](https://attack.mitre.org/)|
 |DP-03   |[Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)|[NA](https://attack.mitre.org/)|
 |DP-04   |[DCShadow](https://pentestlab.blog/2018/04/16/dcshadow/)|[NA](https://attack.mitre.org/)|
-|DP-05   |userAccountControl|[NA](https://attack.mitre.org/)|
+|DP-05   |Machine Account|[NA](https://attack.mitre.org/)|
