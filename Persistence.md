@@ -30,5 +30,5 @@
 |PE-026   |[AMSI](https://pentestlab.blog/2021/05/17/persistence-amsi/)|N/A|
 |PE-027   |[Print Spooler](https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/)|N/A|
 |PE-028   |[Certificates](https://pentestlab.blog/2021/09/13/account-persistence-certificates/)|N/A|
-|PE-029   |[Notepad++]|N/A|
-|PE-030   |[DLL Proxy Loading]|N/A|
+|PE-029   |Notepad++|N/A|
+|PE-030   |DLL Proxy Loading|N/A|
