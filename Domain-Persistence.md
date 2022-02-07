@@ -7,4 +7,4 @@
 |DP-03   |[Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)|[NA](https://attack.mitre.org/)|
 |DP-04   |[DCShadow](https://pentestlab.blog/2018/04/16/dcshadow/)|[NA](https://attack.mitre.org/)|
 |DP-05   |[Machine Account](https://pentestlab.blog/2022/01/17/domain-persistence-machine-account/)|[NA](https://attack.mitre.org/)|
-|DP-06   |Shadow Credentials|[NA](https://attack.mitre.org/)|
+|DP-06   |[Shadow Credentials](https://pentestlab.blog/2022/02/07/shadow-credentials/)|[NA](https://attack.mitre.org/)|
