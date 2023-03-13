@@ -3,7 +3,7 @@
 |Code     |Technique               |Mitre     |
 |---------|------------------------|----------|
 |PE-001   |[Winlogon Helper DLL](https://pentestlab.blog/2020/01/14/persistence-winlogon-helper-dll/)|[T1547.004](https://attack.mitre.org/techniques/T1547/004/)|
-|PE-002   |[Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)|[T1013](https://attack.mitre.org/techniques/T1013/)|
+|PE-002   |[Port Monitors](https://pentestlab.blog/2019/10/28/persistence-port-monitors/)|[T1547.010](https://attack.mitre.org/techniques/T1547/010/)|
 |PE-003   |[Accessibility Features](https://pentestlab.blog/2019/11/13/persistence-accessibility-features/)|[T1015](https://attack.mitre.org/techniques/T1015/)|
 |PE-004   |[Shortcut Modification](https://pentestlab.blog/2019/10/08/persistence-shortcut-modification/)|[T1023](https://attack.mitre.org/techniques/T1023/)|
 |PE-005   |[Modify Existing Service](https://pentestlab.blog/2020/01/22/persistence-modify-existing-service/)|[T1031](https://attack.mitre.org/techniques/T1031/)|
