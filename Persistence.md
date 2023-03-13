@@ -33,4 +33,5 @@
 |PE-029   |[Notepad++](https://pentestlab.blog/2022/02/14/persistence-notepad-plugins/)|N/A|
 |PE-030   |Event Log|N/A|
 |PE-031   |[Event Log Online Help](https://pentestlab.blog/2023/03/07/persistence-event-log-online-help/)|N/A|
-|PE-032   |DLL Proxy Loading|N/A|
+|PE-032   |[Context Menu](https://pentestlab.blog/2023/03/13/persistence-context-menu/)|N/A|
+|PE-033   |DLL Proxy Loading|N/A|
