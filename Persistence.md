@@ -36,4 +36,4 @@
 |PE-032   |[Context Menu](https://pentestlab.blog/2023/03/13/persistence-context-menu/)|N/A|
 |PE-033   |[Service Control Manager](https://pentestlab.blog/2023/03/20/persistence-service-control-manager/)|N/A|
 |PE-034   |DLL Proxy Loading|N/A|
-|PE-035   |Windows Telemetry|N/A|
+|PE-035   |[Windows Telemetry](https://pentestlab.blog/2023/11/06/persistence-windows-telemetry/)|N/A|
