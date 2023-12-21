@@ -15,7 +15,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 |DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|4|
 
 # Contributions
-If you noticed than a checklist is not complete please perform a pull request or contact me on Twitter [@netbiosX](www.twitter.com/netbiosX)
+If you noticed than a checklist is not complete please perform a pull request or contact me on Twitter [@netbiosX](https://twitter.com/netbiosX)
 
 # Notice
 This is a live repository which means that checklists will be updated as soon as articles are published. 
