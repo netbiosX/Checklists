@@ -8,6 +8,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 
 |Code     |Techniques              |Number|
 |---------|------------------------|------|
+|IA   |[Initial Access](https://github.com/netbiosX/Checklists/blob/master/Initial-Access.md)|1|
 |WPE  |[Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)|16|
 |PE   |[Persistence](https://github.com/netbiosX/Checklists/blob/master/Persistence.md)|34|
 |LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|5|
