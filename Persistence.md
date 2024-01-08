@@ -31,7 +31,7 @@
 |PE-027   |[Print Spooler](https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/)|N/A|
 |PE-028   |[Certificates](https://pentestlab.blog/2021/09/13/account-persistence-certificates/)|N/A|
 |PE-029   |[Notepad++](https://pentestlab.blog/2022/02/14/persistence-notepad-plugins/)|N/A|
-|PE-030   |Event Log|N/A|
+|PE-030   |[Event Log](https://pentestlab.blog/2024/01/08/persistence-event-log/)|N/A|
 |PE-031   |[Event Log Online Help](https://pentestlab.blog/2023/03/07/persistence-event-log-online-help/)|N/A|
 |PE-032   |[Context Menu](https://pentestlab.blog/2023/03/13/persistence-context-menu/)|N/A|
 |PE-033   |[Service Control Manager](https://pentestlab.blog/2023/03/20/persistence-service-control-manager/)|N/A|
