@@ -38,3 +38,5 @@
 |PE-034   |DLL Proxy Loading|N/A|
 |PE-035   |[Windows Telemetry](https://pentestlab.blog/2023/11/06/persistence-windows-telemetry/)|N/A|
 |PE-036   |[Scheduled Task Tampering](https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering/)|N/A|
+|PE-037   |[Junction Folder](https://pentestlab.blog/)|N/A|
+|PE-038   |[Library Files](https://pentestlab.blog/)|N/A|
