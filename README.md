@@ -12,7 +12,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 |WPE  |[Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)|16|
 |PE   |[Persistence](https://github.com/netbiosX/Checklists/blob/master/Persistence.md)|35|
 |LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|5|
-|DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|5|
+|DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|8|
 |DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|4|
 
 # Contributions
