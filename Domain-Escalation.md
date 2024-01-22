@@ -9,4 +9,4 @@
 |DE-05   |[sAMAccountName Spoofing](https://pentestlab.blog/2022/01/10/domain-escalation-samaccountname-spoofing/)|[NA](https://attack.mitre.org/)|
 |DE-06   |[ShadowCoerce](https://pentestlaboratories.com/2022/01/11/shadowcoerce/)|[NA](https://attack.mitre.org/)|
 |DE-07   |[Pass the hash - Machine Accounts](https://pentestlab.blog/2022/02/01/machine-accounts/)|[NA](https://attack.mitre.org/)|
-|DE-08   |[Backup Operator](https://pentestlab.blog/2022/02/01/machine-accounts/)|[NA](https://attack.mitre.org/)|
+|DE-08   |[Backup Operator](https://pentestlab.blog/2024/01/22/domain-escalation-backup-operator/)|[NA](https://attack.mitre.org/)|
