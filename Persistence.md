@@ -40,3 +40,4 @@
 |PE-036   |[Scheduled Task Tampering](https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering/)|N/A|
 |PE-037   |Junction Folder|N/A|
 |PE-038   |Library Files|N/A|
+|PE-039   |Disk Clean-up|N/A|
