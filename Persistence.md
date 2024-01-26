@@ -41,3 +41,4 @@
 |PE-037   |Junction Folder|N/A|
 |PE-038   |Library Files|N/A|
 |PE-039   |Disk Clean-up|N/A|
+|PE-040   |Windows Setup Script|N/A|
