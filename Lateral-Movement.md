@@ -8,3 +8,5 @@
 |LM-004   |[Lateral Movement - WMI]()|[T1047](https://attack.mitre.org/techniques/T1047/)|
 |LM-005   |[Lateral Movement - WebClient](https://pentestlab.blog/2021/10/20/lateral-movement-webclient/)|[N/A](https://attack.mitre.org)|
 |LM-006   |[Lateral Movement - Visual Studio DTE]()|[T1047](https://attack.mitre.org/techniques/T1047/)|
+|LM-007   |[Kerberoast](https://pentestlab.blog/2018/06/12/kerberoast/)|[T1047](https://attack.mitre.org/techniques/T1047/)|
+|LM-008   |[AS-REP Roast]()|[T1047](https://attack.mitre.org/techniques/T1047/)|
