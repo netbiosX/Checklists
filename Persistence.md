@@ -40,5 +40,5 @@
 |PE-036   |[Scheduled Task Tampering](https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering/)|N/A|
 |PE-037   |Junction Folder|N/A|
 |PE-038   |Library Files|N/A|
-|PE-039   |Disk Clean-up|N/A|
+|PE-039   |[Disk Clean-up](https://pentestlab.blog/2024/01/29/persistence-disk-clean-up/)|N/A|
 |PE-040   |Windows Setup Script|N/A|
