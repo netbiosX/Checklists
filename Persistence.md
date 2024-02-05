@@ -41,4 +41,4 @@
 |PE-037   |Junction Folder|N/A|
 |PE-038   |Library Files|N/A|
 |PE-039   |[Disk Clean-up](https://pentestlab.blog/2024/01/29/persistence-disk-clean-up/)|N/A|
-|PE-040   |Windows Setup Script|N/A|
+|PE-040   |[Windows Setup Script](https://pentestlab.blog/2024/02/05/persistence-windows-setup-script/)|N/A|
