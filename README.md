@@ -14,7 +14,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 |CA   |[Credential Access](https://github.com/netbiosX/Checklists/blob/master/Credential-Access.md)|4|
 |LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|8|
 |DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|8|
-|DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|4|
+|DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|7|
 
 # Contributions
 If you noticed than a checklist is not complete please perform a pull request or contact me on Twitter [@netbiosX](https://twitter.com/netbiosX)
