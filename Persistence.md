@@ -43,4 +43,4 @@
 |PE-039   |[Disk Clean-up](https://pentestlab.blog/2024/01/29/persistence-disk-clean-up/)|N/A|
 |PE-040   |[Windows Setup Script](https://pentestlab.blog/2024/02/05/persistence-windows-setup-script/)|N/A|
 |PE-041   |[Visual Studio Code Extensions](https://pentestlab.blog/2024/03/04/persistence-visual-studio-code-extensions/)|N/A|
-|PE-041   |[Explorer](https://pentestlab.blog/2024/03/05/persistence-explorer/)|N/A|
+|PE-042   |[Explorer](https://pentestlab.blog/2024/03/05/persistence-explorer/)|N/A|
