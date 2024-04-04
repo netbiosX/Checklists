@@ -35,7 +35,7 @@
 |PE-031   |[Event Log Online Help](https://pentestlab.blog/2023/03/07/persistence-event-log-online-help/)|N/A|
 |PE-032   |[Context Menu](https://pentestlab.blog/2023/03/13/persistence-context-menu/)|N/A|
 |PE-033   |[Service Control Manager](https://pentestlab.blog/2023/03/20/persistence-service-control-manager/)|N/A|
-|PE-034   |DLL Proxy Loading|N/A|
+|PE-034   |[DLL Proxy Loading](https://pentestlab.blog/2024/04/03/persistence-dll-proxy-loading/)|N/A|
 |PE-035   |[Windows Telemetry](https://pentestlab.blog/2023/11/06/persistence-windows-telemetry/)|N/A|
 |PE-036   |[Scheduled Task Tampering](https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering/)|N/A|
 |PE-037   |Junction Folder|N/A|
