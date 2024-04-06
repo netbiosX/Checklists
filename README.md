@@ -11,7 +11,7 @@ The aim of the project is to create detailed checklists that can be used by pene
 |IA   |[Initial Access](https://github.com/netbiosX/Checklists/blob/master/Initial-Access.md)|1|
 |WPE  |[Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)|16|
 |PE   |[Persistence](https://github.com/netbiosX/Checklists/blob/master/Persistence.md)|40|
-|CA   |[Credential Access](https://github.com/netbiosX/Checklists/blob/master/Credential-Access.md)|4|
+|CA   |[Credential Access](https://github.com/netbiosX/Checklists/blob/master/Credential-Access.md)|5|
 |LM   |[Lateral Movement](https://github.com/netbiosX/Checklists/blob/master/Lateral-Movement.md)|8|
 |DE   |[Domain Escalation](https://github.com/netbiosX/Checklists/blob/master/Domain-Escalation.md)|8|
 |DP   |[Domain Persistence](https://github.com/netbiosX/Checklists/blob/master/Domain-Persistence.md)|7|
