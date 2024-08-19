@@ -7,4 +7,4 @@
 |CA-003   |[Dumping RDP Credentials](https://pentestlab.blog/2021/05/24/dumping-rdp-credentials/)|[T1003](https://attack.mitre.org/techniques/T1003/)|
 |CA-004   |[AS-REP Roasting](https://pentestlab.blog/2024/02/20/as-rep-roasting/)|[T1558.004](https://attack.mitre.org/techniques/T1558/004/)|
 |CA-005   |[Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)|[T1003.003](https://attack.mitre.org/techniques/T1003/003/)|
-|CA-006   |[Web Browser Stored Credentials]()|[T1555.003](https://attack.mitre.org/techniques/T1555/003/)|
+|CA-006   |[Web Browser Stored Credentials](https://pentestlab.blog/2024/08/20/web-browser-stored-credentials/)|[T1555.003](https://attack.mitre.org/techniques/T1555/003/)|
