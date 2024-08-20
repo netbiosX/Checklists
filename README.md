@@ -1,4 +1,4 @@
-![Checklist](https://github.com/netbiosX/Checklists/blob/master/Checklist.png | width=100)
+![Checklist](https://github.com/netbiosX/Checklists/blob/master/Checklist.png)
 
 # Introduction
 Even though, a penetration test is a creative process most people maintain private checklists to ensure that they will not forget to test networks, systems and applications against various scenarios and maintain the overall quality of the assessment.
