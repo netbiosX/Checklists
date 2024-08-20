@@ -8,6 +8,6 @@
 |CA-004   |[AS-REP Roasting](https://pentestlab.blog/2024/02/20/as-rep-roasting/)|[T1558.004](https://attack.mitre.org/techniques/T1558/004/)|
 |CA-005   |[Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)|[T1003.003](https://attack.mitre.org/techniques/T1003/003/)|
 |CA-006   |[Web Browser Stored Credentials](https://pentestlab.blog/2024/08/20/web-browser-stored-credentials/)|[T1555.003](https://attack.mitre.org/techniques/T1555/003/)|
-|CA-007   |[Stored redentials](https://pentestlab.blog/2017/04/19/stored-credentials/)|[T1552](https://attack.mitre.org/techniques/T1552/)]
-|CA-008   |[Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)|[T1558.001](https://attack.mitre.org/techniques/T1558.001/)]
-|CA-009   |[Kerberoasting](https://pentestlab.blog/2018/06/12/kerberoast/)|[T1558.003](https://attack.mitre.org/techniques/T1558/003/)]
+|CA-007   |[Stored Credentials](https://pentestlab.blog/2017/04/19/stored-credentials/)|[T1552](https://attack.mitre.org/techniques/T1552/)|
+|CA-008   |[Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)|[T1558.001](https://attack.mitre.org/techniques/T1558.001/)|
+|CA-009   |[Kerberoasting](https://pentestlab.blog/2018/06/12/kerberoast/)|[T1558.003](https://attack.mitre.org/techniques/T1558/003/)|
