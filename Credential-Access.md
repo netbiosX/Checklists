@@ -11,4 +11,3 @@
 |CA-007   |[Stored Credentials](https://pentestlab.blog/2017/04/19/stored-credentials/)|[T1552](https://attack.mitre.org/techniques/T1552/)|
 |CA-008   |[Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)|[T1558.001](https://attack.mitre.org/techniques/T1558.001/)|
 |CA-009   |[Kerberoasting](https://pentestlab.blog/2018/06/12/kerberoast/)|[T1558.003](https://attack.mitre.org/techniques/T1558/003/)|
-|CA-010   |[Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)|[T1003](https://attack.mitre.org/techniques/T1003/)|
