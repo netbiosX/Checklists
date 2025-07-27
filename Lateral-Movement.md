@@ -10,3 +10,4 @@
 |LM-006   |[Visual Studio DTE](https://pentestlab.blog/2024/01/15/lateral-movement-visual-studio-dte/)|[T1047](https://attack.mitre.org/techniques/T1047/)|
 |LM-007   |[Kerberoast](https://pentestlab.blog/2018/06/12/kerberoast/)|[T1047](https://attack.mitre.org/techniques/T1047/)|
 |LM-008   |[AS-REP Roast]()|[T1047](https://attack.mitre.org/techniques/T1047/)|
+|LM-009   |[BitLocker]()|[T1021.003](https://attack.mitre.org/techniques/T1021/003/)|
